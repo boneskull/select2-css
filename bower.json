@@ -1,0 +1,20 @@
+{
+  "name": "select2-css",
+  "version": "0.0.0",
+  "homepage": "https://github.com/boneskull/select2-css",
+  "authors": [
+    "Igor Vaynberg"
+  ],
+  "description": "select2.css only",
+  "main": "select2.css",
+  "keywords": [
+    "select2",
+    "css"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "build.sh"
+  ]
+}
